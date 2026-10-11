@@ -14,6 +14,10 @@ An interactive, production-ready 3D medieval castle viewer. Orbit, pan, and zoom
 
 Generation model: `monkeycode-pro/grok-4.6`
 
+## Preview
+
+![Aetherhold Castle interactive demo](demo.gif)
+
 ## Prerequisites & Installation Instructions
 
 - Node.js 18 or newer

@@ -13,6 +13,7 @@ dist-ssr
 *.local
 src/App.css
 src/assets/
+screenshot.png
 
 # Editor directories and files
 .vscode/*
